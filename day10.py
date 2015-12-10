@@ -1,4 +1,7 @@
-
+"""
+AdventOfCode.com
+Day 10: Elves Look, Elves Say
+"""
 
 def look_and_say(inStr):
 
